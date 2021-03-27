@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 11cd75004d5b84ef08d52cd8912277d3, type: 3}
+  m_Name: BatchBuildConfig
+  m_EditorClassIdentifier: 
+  m_collections:
+  - m_name: AssetGraph
+    m_graphGuids:
+    - d58548e5d4de75d43801816bec69fd58
+    m_guid: d9763cb76e8be024bb4e0857f3d96a02
+  m_buildTargets: 0d000000
+  m_version: 1

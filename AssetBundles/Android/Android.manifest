@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1624825158
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/views/home_45e338c8c16a2e758f0dea0b227f1f33
+      Dependencies: {}
+    Info_1:
+      Name: ui/views/test_e7b6badd3ac76fed86b7dd29000eb0cf
+      Dependencies: {}

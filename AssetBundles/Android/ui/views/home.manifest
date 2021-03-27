@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+CRC: 867166172
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 45e338c8c16a2e758f0dea0b227f1f33
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a1af60d0af56e084b394befb5522f69c
+HashAppended: 1
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 92afce526c6811747a55c83d32c0b77b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e0542ccf214b15940a3c038c2633cd89, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/DemoRes/_Resources/UI/Views/Home.prefab
+Dependencies: []

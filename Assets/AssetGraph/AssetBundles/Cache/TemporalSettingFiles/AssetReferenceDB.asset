@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4bc21567f434b598a3c96ba4946372, type: 3}
+  m_Name: AssetReferenceDB
+  m_EditorClassIdentifier: 
+  m_assets:
+  - m_assetDatabaseId: b709bd62b9e0979418edfa253fb999de
+    m_importFrom: Assets/DemoRes/_Resources/UI/Views/HomeView.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f618321b4fe4f54fb16fb32ee9eff42
+    m_importFrom: Assets/DemoRes/_Resources/UI/Views/TestView.prefab
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 798761c344bad304ba3fbc8b6c07a0bb
+    m_importFrom: Assets/Scripts/UIManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d61fb9d4ec6046440b13af2f77dc62df
+    m_importFrom: Assets/Scripts/ManagerRoot.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0000000000000000b000000000000000
+    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63ccad73f53601048ab7acf90132343e
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetReferenceDB.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33ebdbd121126a74d8f65f0fb8c530c8
+    m_importFrom: Assets/AssetGraph/Cache/AssetBundleBuildMap.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d58548e5d4de75d43801816bec69fd58
+    m_importFrom: Assets/AssetGraph.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8476fa3cd660445448f7a7c077156f62
+    m_importFrom: Assets/Scenes/Title.unity
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e787a85b1a4c004688af8bf8c9551f6
+    m_importFrom: Assets/Scripts/Title.cs
+    m_exportTo: 
+    m_variantName: 
+  m_version: 2
