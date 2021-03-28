@@ -14,24 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_events:
   - m_kind: 1
-    m_timestampUtc: 132613499321514815
+    m_timestampUtc: 132614040819381830
     m_assetName: 
     m_assetGuid: 
     m_graphGuid: d58548e5d4de75d43801816bec69fd58
     m_nodeId: 4ab35e73-fe55-45bc-b58a-011e81171af8
     m_nodeName: Build Asset Bundles
-    m_description: System.IO.IOException:Sharing violation on path D:\DemoProj/AssetBundles/Android/
+    m_description: System.IO.IOException:Sharing violation on path D:\DemoProj/Assets/StreamingAssets/Windows/
     m_howToFix: See Console for detail.
-  - m_kind: 1
-    m_timestampUtc: 132613506085648236
-    m_assetName: 
-    m_assetGuid: 
-    m_graphGuid: d58548e5d4de75d43801816bec69fd58
-    m_nodeId: 4ab35e73-fe55-45bc-b58a-011e81171af8
-    m_nodeName: Build Asset Bundles
-    m_description: System.IO.IOException:Sharing violation on path D:\DemoProj/AssetBundles/Android/
-    m_howToFix: See Console for detail.
-  m_errorEventCount: 2
+  m_errorEventCount: 12
   m_infoEventCount: 0
   m_version: 1
   m_processStartIndex: 0

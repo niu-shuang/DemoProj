@@ -53,4 +53,2074 @@ MonoBehaviour:
     m_importFrom: Assets/Scripts/Title.cs
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 66f95989724541645aedfacb6dc4f044
+    m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetProcessEventRecord.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3d814d37ef3f05f4d894c27a363ffa77
+    m_importFrom: Assets/StreamingAssets
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed7cb8f9a27664e48896c904189f0e2c
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 018a5623a46db1d49b1e6ff2482b07ab
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted_alpha.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7dda6e49f4dd1c4bb0fac36bf812173
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93b1287b4a087f84c95c72f49ec94e83
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_bright.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa6bd40a216346b783a4cce741d277a5
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b99e43bf99b3c954f91bde2ad0c1eac2
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db66ea47c76423f4a881937d34495801
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineBottomShadow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3dd65256ca8837544b3e738c0d3ee0e2
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemSelected.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: abf8a615f379ef44b9ac872a13b7712f
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBL.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a09fd8b5d9396c24a96a6de50cddc3b9
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineHold.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 928b290746aa740428fdb3021b136b4c
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node6@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 789ef07ba2573f6448fa8b5dc5224c44
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/greenSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c681ffb5a436684fa3e98a9b66775c0
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8b6b31f71cd528243b053cfc488e73f5
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignB.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c27f4e1f2b76b2f45b48df65c02ba338
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-available-changes-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0304baf8d224f3e47b22d872c8dcd412
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineDisabledBackground.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d3b5c4f7d6b94f64085b3713bffa680e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelinePingPong.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db31466324572e740a431e4e0e03a016
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMuteButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c706019afb28944eb19b500ea0da38c
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0367ce1ebbbb18940b79eed63a0315d5
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineCollapseMarkerButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 40947ddc2dd4f0d499a92d0f3675c4e8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34b3e61f975861a4cba8efcb5f6f05ea
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7acc6bd588627b046bc1c9b3cd78a6c7
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickerEmpty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cd20fda32910f2942bd0231aa038b0bf
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 519694efe2bb2914788b151fbd8c01f4
+    m_importFrom: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer_dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5e21f4e466690645980dd0cf0b664bc
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineSignalSelected.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf3fbf98d5c3f1941bd9c0256918a4c8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e50018fd67fc156459e4014bdad3f5f6
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSwatch.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fef7487d8b06bba408f70354e2463ce4
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 252f207d01ecc87419cdba1d1c0ab1ea
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98d032c68be4a784ab77b461c5341fc8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afd7d0ddb1d6c744b9cb87ae49b2ce62
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorder.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f0cb66458819764b94b93250bae94b6
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCC.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a8208d8e80f90944b8ff2978292b03b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCL.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c76700ea0062413d9f69409b4e9e151b
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c6a0c6226c05f954fa6cd03aebb4d255
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackRecordButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aa8dc9238ab21e54ca88fa22698e4679
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty01.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ef40b00a83f7bd34f84851386b3321f0
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha50.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9716c16a44a94eed9b5c90fbf4d9bdd
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonFlat-Top.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b3644a971cca0bd4eb357cb9aca4dde1
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d542f997a51000946873268e3546b6ba
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/grid_dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a0fdac62174ca014b94a537688fc684d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c223e0c507e2c6549a2cb97441b62cbe
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 87aaca0a643d54397ba969dab4fc8875
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4896b5aa9d63dec498136c21ffce735b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09a0cde07b4d75f49b4c817932791b81
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_models.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5216b1b48296ef345ad2d2ec43105bf0
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMuteButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfd33662d9f6f3849bd92f6e159ca226
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderAlpha15.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 25da15ac84743244ab4c860cf8798ec8
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBorders.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a563a43c33f0f3428d02b3a43886fc2
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18a5a7cde794cc04b9b446f0feedb3a0
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_open.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b9e9b3d9ade166499e7a17109ca73bf
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineTimeCursor.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3aa429e1ebaddb41ad13211560ea5e8
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Documentation/images/browser_configure2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a88fa20ed164bbe4da6bf533f94a3113
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineSignalCollapsed.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1606d34a052ed3449da93edd229743e
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedAlpha.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f79253104349f44cb73978f6c8e93de
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTC.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bcc2167ce63c6264b9c1295e97bec6bc
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8eba099eb091faf419fecdcd5cdabfd7
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineKeyframe.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e730492361eb6e45be5c5fdafac23be
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/orangeSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9d6beecfb0c514c9782641af7bdbe9ba
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/AssetGraphWindow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e3edcdf6743ba643999fb3882f1cc15
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-warning-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03eaacf3cb3e642a3a137ead7d9debba
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node3@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c84258b6921bcce45a57f68a07b2143f
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/clear-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed3789262161efa4fa33c85ca534590e
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_prefab.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92b5e4310629b264dad0fb2cc196d818
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d021820613d286f48915c2de657245d5
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/loading-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6858abb4516aae344881bf286b3aac33
+    m_importFrom: Assets/DemoRes/Textures and Sprites/SF UI/SF Window.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec7c645d93308c04d8840982af12101e
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Sprite
+      Asset Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4eb34d40a86f34e39b58f21bfa24fa14
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node_images_source.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 29b0e8156f6fb774faf129c83bc9ee33
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9053b8d7b8c0d446a1f1fd28fec65c1
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 70e3f118652b9094885689730ad3a47b
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelinePlayRange.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 360dded8761e81d4d98c10f469d55492
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineLoop.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 89baa4f52fa38496e8d0d6808762034f
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0a5e3e063c4e1ab45999cf6e40c13c07
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db750325989564987a34393247d883b4
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Square.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1cc4426cea05e4d9a92364da039f01b7
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node4@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa1ff86f20525894b9bd92f1b1909ccf
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 512aaee9b220348408a2e518f98d6e14
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMuteButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf575301f1e76c4478de0e77db15eba0
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f0b77e050cdb12478ed9514b3a0e40e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 22c3c381bd3cd4a40a8541103023e1ef
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineDigIn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06bb2a7fb040987409dae109d185de22
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 02fa233a818899d48a2d3e68a68b23b6
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-warning-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dec3ea647707588408ec0d11ab130b73
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCorners03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b6e9dc9aad5843748a0124b8925c3743
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemSelected.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 30db500b226a8014e82f9e1e39a78e15
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/DiagonalStripes.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 75d22b424580dde41824299bb20d1de1
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-incoming-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f2c4b43188596b47866d41e1dc13c8a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_folder.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3a008b3f63356f241a197da231865421
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed041e68439749a69d0efa0e3d896c2e
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dfe6e0ac3e5f24740a17e14b65e08406
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43ed4593c5ddda0439fcc1bdaf8309fe
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 07ab2758fd6b77141ae34a703972f385
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-available-changes-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 406e7a664cf5b47b8bea6929347c3122
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node6.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b9e0e5a8836018e4c810fbceba55a1b4
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignHC.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3e6b96a975eba1c43b2bad66fb7f8b4a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_textures.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af24c542434a025448222d576f61a956
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d98b8847646169c4fb5af28dd84c4179
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 495998c718a094540bbe57ae5ab07647
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackRecordButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 397fff6c3885f8343bb65714f0064b5d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c9fb8470579cf8440975e58c5df98216
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-offline-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18775b51e3bd42299fd30bd036ea982f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1875b6a8fb148514ab1d9494eae2dd9e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1c5196e122b8e46d3aef4164c81252e8
+    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d876c6d477e3c3b4891cdee8f10ecaf1
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-conflicts-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c83a08052c9e2f49b47897a637994de
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e8aa120f1b4731e43a2dd31eb70bbbe2
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: de4c62a7de5c61a41b5b0029b339f373
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9589d5d9eb09dec43b2ad51af4e78b1e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackCurvesButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d3ab9b7cb3a1794a891374315d8305a
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4dff96b374bd7441c8ad7f91fc6a3591
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 98eea3a123f8b4c468b7e43d0ff3c232
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-progress-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6f504a3fa8848264bb4fb9bb7d582dd5
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignCR.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 12736c98af174f91827a26b66d2b01b9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 622fdb780ae13e840938631c5ed708f2
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_comment.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9e541b6dcfb77d34481f69b3d62d0343
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackCurvesButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b80d5b6acdfbc114b9efab6295fd96c1
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineCollapseMarkerButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33a52b41b4de5874ca7da1da32067e39
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMarkerButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 51bf5f55a8a01e546bf6092b54fdae20
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0c0132429106c8a4d89d9d0a6b723ec3
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility_off.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b2a04fdbe0ef4d8da8f90eaca817cd1
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/HexagonPointed-Top.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 912fd71cbf4cbe140b4f240bedbc1f3e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5c57327df0fa294c8209aa216435167
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c99f06ff0dde241d1a363bbd8ef932a2
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node4.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2f7f6a88b4c4f20a53deb72f3d9144c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 517a5bfe18f2ee04d9925db10be034e2
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/yellowSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 907baae0102874dd49e7f5b2c9dbd168
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 05cfe010378336646ad6c721f66543d1
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blueSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c456d5ac01d2aa843a63985497b04931
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderThickEmpty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1ccb12a4b0bf8f447b2cc114851732f5
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeHAlignT.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 11848dd30e516d846a02cd302634d317
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha80.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 026474f5e29544af185a526bd1aebdf6
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node4@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ce3ca6a541b5fbc4c80edb5195d78731
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d4691eba7565c34ab785c00fbc27ff8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItemCollapsed.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eeac3acbf7d1cd54fabfb1c4a12f9fc8
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBR.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f7ff421f40d548444864a01cd7f47112
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha25.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 669c487f3c9c5fe4abb6459f9c2628f0
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 61c21f74972ba8246b3ea400a9231841
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineContinue.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39cacc93c6c183f44992bf2421362f78
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alert.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d18ceface0c20014b8db4bba05a41b83
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignL.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e6f1bb79354d4d14a965de286d966d5
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node6.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b08f8cbc53d0bfb45bd2fd1f676d3554
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-error-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 066619c9c9c84f89acb1b48c11a7efe2
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45308e2aea842dd4e87bb30395d6e303
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-warning-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 75f26f1c549568c4e9950a368bd08cb8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/Timeline-Marker-Multi-Overlay.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20dd03585482b4892a07d6dd5adb3ecc
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/d_AssetGraphWindow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8d60feae84bdb2d4eb16a0037056c588
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock_open.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ee40aa79cd242a5b53b0b0ca4f13f0f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input
+      Field Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 37639be6148186645bca3fce45d5aa22
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cabe2c11824b4164984e262821760727
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-offline-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c98f350e47082844fa2954de4d2d5ff9
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/clear-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a82846d41464fcf4b962ebdc815963f5
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5dfe66e61e0d270468ae75349ff3a3eb
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSeqEnd.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 183f7b7549219ab47becb461a16df882
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78a59ca99f8987941adb61f9e14a06a7
+    m_importFrom: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Header.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2887294cc7f1fe840bff6e349409648d
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineActivation.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 713aeedbd53e6b848a68d0755e7a2c74
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/clear-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9f379314652051f4aa49201b44eae54d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 022a5dbc82be311428eec45125477996
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/DiagonalSpritesNormal.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33b1871a2d09cfa459a93f4e8feb5c41
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineClipFG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: aa1d42dc6ff3e894da2208c6929d2165
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha50.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afc3569f912a446bc839b0acf18ac47c
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c207dcd389fb689489f5266468cd4609
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb605a2688b31194887f2e7a6769235b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cog.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c133595e3c100774496e03e66fa69259
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7c05578092876a0458b8b480269aef86
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6dfd924c0ba23844fb5d04ad1560de22
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ddbd45249a133a846b2f20e39b537565
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineHold.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f747f9cdf03f2ff418fe728a77e8cbef
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineContinue.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 60706f973daf4764e81c846ce1a8e183
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-progress-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8da095e39e9b4df488dfd436f81116d6
+    m_importFrom: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/DOTweenIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fccea209f9ea7b1488225287813f4e38
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Decoration/Icon2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1278357b25e10442b6ca6c24edc9781
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_empty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6232fff3dd732c24b810a139724ea7cf
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ee148e281f3c41c5b4ff5f8a5afe5a6c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Font
+      Asset Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 23933ab6b291bc54ba1b99b5fcb9ec80
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 511f6b24c50557a40a09633b12b8b8ef
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha25.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 55c2b426022dac44f9b25f0cba28aa45
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_visibility.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 54623075676bd504d93243fb18745161
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4466539767d9ee241abcc43eebb52ce3
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9288066c33474b94b6ee5465f4df1cc0
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 50ab5eea3a58b4ddeb99f0388a1d77c5
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/BackgroundNormal.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6862027f2176eae40a3143c562466a1b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4adeaf2d2b1c7417e89f026626d8264f
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2446ee609b613cd4e9142ccc55cb7c43
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f36ab42cc6fcdfd4187033279d3d14a9
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f15453c5e25703942b480f17a40794f5
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-conflicts-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bf6507f1346b2746a35384f6a5fd5f9
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fba4512e3548e0548b2cf4f11913e257
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e2279677842a8064fbae0bc889fb85ab
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_atlas.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 92027f7f8cfc4feaa477da0dc38d3d46
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ff88be84254fb1f4b9a81a27ae0b2e81
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f179d9a3cccffb04ba2e27f681e9b147
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItemCollapsed.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f79532ed53993a24fb2d007f647d3f97
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0159d5999f4dc4545848ed42cd775ec4
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-error-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed665472b4fee2043a5c1cc802beaa8e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineTimeCursor.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b1d064d6d80829f4eb370f679384ea1f
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineDigIn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68295f1d2b4db9040ac84ac00d5554a6
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f1c735dde115d4f4c9ff5c633f07fbb8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48d034c499ee4697af9dd6e327110249
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignTop.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c63d12b8197e0466bb01427f0f4d999b
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node_images_source@2x.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b22e8d996934d3498b6e8b2cc8744d6
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7d504312fad10f040b95bd8836dc6fc6
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67b4de080f56845a09dfdbf9742a16e5
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32f7e3598d6414c489127629e29af3f6
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipOut.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c44ae4a96937e2c4b8be481648364682
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_flipV.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 727ba41e4cc95fe4a98b07301e3ebfc8
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignR.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f6717d61970edba4686c297677881a77
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey_active@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a9fa02cdd2d760c43a0e69ba0fa49dab
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-incoming-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d44fc8b11425e0043aa7c20a301ce707
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineClipBG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c52be92045472a4bb2d2fa348b08d6d
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Editor/Icons/ABundleBrowserIconY1756Scene.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e80543db0ef9494a9c1777f01e1a4a0
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-warning-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eae63adb172f1164db61a7f4bdfc3637
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineInfiniteTrackNoShadow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ab1e2f0dfb0df5e40bb95359b3d8ed3a
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineIconClipIn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d9a36012a224080966c7b55896aa0f9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 116a8defb66aa304d97c1fd15f044486
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-progress-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca2f91cc405eb144dad970eb23db2f72
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareCornersEmpty02.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7e74ddcb4e22c4cfc94b454f0aeb1573
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node0.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: be0d6a45537a1a64e9e6c4ce47a2d58a
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Decoration/Icon1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 38a596ccbd20144369ac06fcbc2ce118
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/KnobNormal.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bd7b7cac6eb0c3f469781d9a729a1c94
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2b4a1682166e4434e8ee7c6f47115b43
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Decoration/DottedRoundedRect.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6fb5cabb85ba3794682b16eba19440cb
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77502b03a9bd59440840caed1248d860
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/loading-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a972d8b163b45d54b89085acf50327e8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78ce924c1536e4fb88d91fff535a384b
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node8@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 88d697f38121de443ba144702e5122d9
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelinePingPong.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cf986943c88c2254780c17b2b5e3bc2f
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_fonts.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 91746a504b59769439bb2749c314d231
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 645aafe2260b2884a9df05b4bc01b1ec
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e7a0d3e65a5b4ab4db5ba97e4fc06f99
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c85066ea99cfbe4f90294bf295ce543
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d5b9ba23399f4d4f8de62cb70b9440f
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/White.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 966be606197166640a108ef53355eddf
+    m_importFrom: Assets/DemoRes/Textures and Sprites/SF UI/SF Title.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c0bdcbf152ceb64ba9b01cc370a9092
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 945f4ecec6df62244b9ebcc363833642
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/Timeline-Marker-Warning-Overlay.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d56722fd7cc841042bfafe48130cf5d8
+    m_importFrom: Assets/DemoRes/Models/Textures/vehicle_rcFlyer_dff.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0c40ceac3c6df146a0fcd4e6b226540
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8c9cfa1dbe00a1d41ae9d14f5ac543ec
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha10.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 519a7d8c957b74d4796e109c00242ce0
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node8.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0e5ba0f04df278944a8f5a62f64f5aa6
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 967c7b47090d34cf090c40749e45f0b4
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Rounded UI/UIButtonDefault.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4d24f788ff8ef0448d273529dc5d9a0
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: eba49403f5934c74b8114ead5f397592
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-info-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 358cddede8023574191e0aae610a4645
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a1db7ee549d5147d4b42adf1b7396354
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/InputBG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4d338c631fa36f345b72a36f1c91ff9a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/transparentSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56f45ee382e8dc847bd536ba8de7300b
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e85ee2947fe44422d90dab56e1efdd91
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node4.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5b4de33f65ec448ec9085f9c0bf149db
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ab002208ec290544b44bc263dc58a95
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e68d922aabe4948a2af68d46db95d4a9
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node2@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3d0592dad579e141924133869455c53
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b4785ec6d937dab4fa59da70b69afc9d
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignT.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 824c4beb0ca6c934bbc7a26919302236
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineStartPlayback.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c6daec86666cbb4b9e558b839a103db
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0365b40fda51ad5499dfe50b036adb1b
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ca5daa3415451940921fa7e2c3db9e8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineGroupBackground.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6efe1c8569d975640ba0c9f2ac4a9d61
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTL.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bf1debab21103154b99778ba6e074175
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineHeaderMarkerIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39c95c5cb14167543b9aa5908c94bb71
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6192986415256ca47a97a97507406f5e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f0f8ff8921b22a74a8c79d955ace248d
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackCurvesButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7dc96f2ba3659a64eb632128d0705ddc
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-conflicts-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 987c88fe221d4484db97f6d0e56d8e3c
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2fd6421f253b4ef1a19526541f9ffc0c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Text
+      Component Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e02713e10d7aced44a7a651231f0adef
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_materials.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f536c51d3da3f2e4ca93ac8773ec2ad8
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved_darkBordersAlpha.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d173388c1d9c32a418b5b777dd89d71a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_heart.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 497a860dcf38eca4485e2b936e03bef3
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09996e28fa830fb4283b19f26584c9f2
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/search-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4a091a7609ef2d34bbdfaa1a886deb18
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_terrains.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 193dae938a3136440b693b45a2494737
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMarkerButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9a32a6cc2cb803443983d45d4a513506
+    m_importFrom: Assets/DemoRes/Textures and Sprites/SF UI/SF Button.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 62a48d93e78c63b4ea9b46537c7c0091
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_optionsDropdown.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f3ea4caa6e0ec74388e4d7d16690e68
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a2cea5a396ff5d4a8f740bd5d8726b0
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc35afd292fc349128b36a291fb3a165
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4578222ee7a511446b0c340551bf8740
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20230a1dc8b2b4837bde0fe4b5ab254c
+    m_importFrom: Assets/DemoRes/Textures and Sprites/SF UI/Background/SF Background.jpg
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 58676a985ae875646b7be748cf4499fd
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_bundle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 366c5b350c052f34aa6909c6563fb9e9
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c99a391f381fe534c80a193fe9f307a0
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/tileBars_slanted.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3b0f810fdea84e40ab4ba20f256f7e8
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b44c1da064d3bf46be68efbc875596e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/search-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 43eeff8a446b32242a4fb1a5c1bd7b8e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelinePlayRange.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0ad7c77e77679ab46bf11303c59b229a
+    m_importFrom: Assets/DemoRes/Models/Textures/vehicle_rcFlyer_nrm.tif
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af28470bd0e2e9543a6dfa9a1a4b348d
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/circle.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e54e20c7a9730fe4c822d63228527ae4
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3b67e53c8c2f8114b966c0e70d452419
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cross.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a04f1625bf500f64e97445265dfbcc93
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineConnector.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18f3a26aa87fccc4cb5e211d4c6de662
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_star_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae9e7828f0813b04fbe3f839422b2289
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-progress-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5060c9f9eb2f7ee4695b638a21d8fe01
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineStartPlayback.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d8306b1e159c72c4ebc9a4fc31debe60
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_play.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 93b68213089b05943a651574eb7e2fb5
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha10.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6d41c3e8796a4fd4e80840354039e4ac
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d55a54a15106e3f418a43134888f2211
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 837c493ae228aaf4d977e9138707008d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7a968b204ed77c4ba90be3ef3ee8551
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineIconClipOut.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e6e5a841174ef8f44a853b724cc52b4f
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/revert-asset-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 49679f302ac6408697f6b9314a38985c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7b4b3cedf598c954cb2f38d6e2e34c0d
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52c8930beb5f2774ebec26a86c7e9713
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c35a22ede3f5feb488bf69587ddc36ed
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMarkerButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa5b15174efac1a499b91afa33c625fb
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/search-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8558913fe46542045b38c8f97ef8546a
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7051dba417b3d53409f2918f1ea4938d
+    m_importFrom: Assets/Plugins/Demigiant/DOTween/Editor/Imgs/Footer.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7ec9e7ad8b847b7ae4510af83c5d868
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Dropdown
+      Icon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fdbd7df1b46f4714fbb0174e505f5a31
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e0af1b5107fe5c2428026d9f032c64c0
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Editor/Icons/ABundleBrowserIconY1756Basic.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81e8b4a4bcbf7a14898e2658fd827642
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMuteButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd12dbe3b63ae464f824b4a74c0e1766
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c5b20b1351db04e44b3baeba4679c8d7
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4edd7b9c0708c41c394a7eccef5710f3
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 039dc89c76661c344b7776f8a47cc5a4
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_whiteBorderAlpha.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e1af8927fb6f5634896d59aed409a589
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_audio.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d41e3a51c74c48847a8eb97a319afda8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-error-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80c31f397a3ab184bae2f0d4b3dc5c1d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a7852b1b33b816498b6af1e739f5995
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineSignalSelected.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 45e128e1cf00555479ee7934ab11cadf
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0f1c9a12872a30f45bab34f536332bb3
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a383d8b1327c9254896ad76d6efaf357
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackCurvesButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5baffe5f7a6366344b7819fa35e7e030
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-offline-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3ea510ab0d9de74d825181746b18285
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8bc445bb79654bf496c92d0407840a92
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d0c9bfe4ae0d68a4f945b3a8d983af01
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 342a0f8aca7f4f0691338912faec0494
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6091f9516d23100479c03bca26138bc8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackRecordButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 411e6f19c19fa0546af83aeb59c2ed4b
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2a4c44b710a153245a151f26acb70271
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 691475c57a824010be0c6f474caeb7e1
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34587324d412940a79d530020c957dc0
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Capsule.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 15845fb26c2846947b4dedb9fb348cc1
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineSignal.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d84f7eb154b674f46b833c51f844277e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2c8a8b796d0907747a9518f9458b2259
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b972fca7700d6748b66eb72f2072e74
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 229d0d11465a822449f78a50dbf7104d
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_demigiant.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3ab1bcbb000bd41018384e565c288604
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node5.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 20794834c0a413f408b80110d0fc73b8
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_heart.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d5367ed2f72994b55af0964b29a5134a
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a78bffbeb81b48ae9ec71ad7969613e5
+    m_importFrom: Assets/Plugins/Sirenix/Odin Inspector/Assets/Editor/Odin Inspector
+      Logo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6ace62d30f494c948b71d5594afce11d
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 009ae346a3f1b42eb864a151c39805d3
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node6@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 76f42306b205543bf8fd126dd531dd99
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node8.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 34f39b5a760ddbb4d8b8749852868335
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ok.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 96cbdf605b8ddb34da384703f2d0b849
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_scripts.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8003873ab749935489bb11f23f830856
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_particles.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 56adf392a7d080448ab9b85e27356d2e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-conflicts-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c285802d9d414814fad592b90b223f15
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineEndPlayback.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: efbf52d7ee1264d478d63a17b943941a
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4aa34055b1d36ef479af3d7b5701b28a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_nodeArrow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d91793cd853a258448e4d5545bb38e45
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineSignalCollapsed.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ec2e3aa6d0ab8ce4eac29b56d65d61d5
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f169193df3d51042a705fa81fc46e72
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-error-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7576b8f317a11494eae65b2335689272
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/OutputBG.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 33c1613cec3e57243baaa6b3dba6fec5
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 64b9fad609434c489c32b1cdf2004a1c
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5510cdd48a6aaaa439c95ef5b2fe9e28
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha15.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f8dd2517b608b4a7ea9098574b4e6969
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 63255dcf53aebf34a8b1162ee502ebe1
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Documentation/images/ABundleBrowserIconY1756Scene.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c0e0aeb2cb19c640a4d430e258e7336
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 301c130dbb4bbba4e87072804939c861
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 158d9c687149a0e499002e08c9420c70
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7cb2912222469634ba17a77055919ea8
+    m_importFrom: Assets/DemoRes/Fonts/Jupiter/Jupiter.ttf
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cdf2b54d520524c418aed1dc00eec185
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 585b70cb75dd43efbfead809c30a1731
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 159b6ffcecc70b54a991cab02c8be883
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 274868c191eceec47af7c288217e75cd
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: dc0ca9b32ae9fd049911671cf1a480bf
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/purpleSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7f5bfdeb677f0f9439f594f1cf98266a
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ddc4c89f94d2d994c8d7275e3929ff60
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/loading-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fdae4ac756ed6047b01021ff0cc3ebb
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackRecordButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d18286874382ef042bbbdab5f71329c1
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6b1f9e1e1c2cf004b8e3bdd3033a8e75
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_delete.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c7df1e797b21c774f9b859d17f674737
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineLoop.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9464586463c434f4a9ca322dc0df1350
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node2@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbdd7ecf39c13bf48a5bd02a1159c90b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/redSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fd194f75fe3d7ca4488fa775ae832fd8
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackAvatarButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7136d73e8820d4135bcd6720bf5f3721
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node2.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0bf674c3f0a4e42228c87053bedac19e
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConnectionPoint.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ad2e3e92b00839c4e991ca602ef19822
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineSignal.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5fa5a4d85cee44cc3a050e131b9b6098
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node3@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 52ee3ba2abc3da14a95cdf64d32ae0ae
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackLockButtonDisabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 403f9a7a077a74263bab6b89198eaf4c
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8c531b4e51e4994a81837c4e9b0d649
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonEnabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1732e542f535d374bbfa7565fc78414e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineWarning.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e484876f0cfbe8d46981ae0062b5e77f
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Decoration/Icon3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 06bf6150656339941aa98e175a995445
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineSelector.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8e3ec2dfd58b79842aa78376678a9a05
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a26232d4d188e4440897131ed223d505
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f9fd2f335364cda41937eab39bf20049
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineKeyframe.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4171b549947246b4f9579419d5698a7e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineIconClipIn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1238f32bb27c642c5b81174a099459f4
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Rounded UI/UIToggleButton.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 09ae14686a02d484ab41e76fd1efba14
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeReplaceOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ac5017dfbeee42347b3b45ecc572674e
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMuteButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e01c0b07c87513844ab88bb432bcf85a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignTR.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 521ac7d05d42f41408ec95eaedef87cd
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Documentation/images/ABundleBrowserIconY1756Basic.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ed27888e1684140fe8f6cb05957e5b6b
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node3.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8db54efcce998554c86b796b37a7cdfa
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af3aec622aef40c45813b39e405966a3
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8478a99d8fb61c94ba938c3034d449c6
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-available-changes-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 2cdc0bc527f7a434496c6be9236e636f
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignBC.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8adf019998f124b7d8692b8083b72505
+    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb42b2d967d6427983c901a4ffc8ecd9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMidline_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 16b10562fce5a0f4794872a75d897cc9
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/conflicted-file-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 7ba4b2810f605d945af87e032ca2957b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c2d8bb87691276f4d93f1b74330d1d90
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/status-warning-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f69b96f9308d8f4ea239773ef5b55c4
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 289215d22fcafb941b9e25f8609e25b9
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f7ecdf2556ad4d3a820aba90522fab4
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f4c899d39b015484a9b4e5464802e401
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Rounded UI/UIButtonCorner.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b48a2f13c40b045f9b2205828dbd7fc4
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConfigGraphIcon.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 412f73153f3a3c549b67b2a847741145
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineDisabledBackground.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1bceea0c53eecc244a50615c7958486d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-mine-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bfe3797fca69b44589c23dbbdb59ee52
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4bc6c7e602886fd42918d903a7393536
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/publish-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9af18154bd2effd4f813d58651798b5d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ca51b19024094d1b87f3e07edb0a75fb
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 35ff0937876540d3bd4b6a941df62a92
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenterGeo_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0919e5a835eb86343b8b1722ea1d32a8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-incoming-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 01976ad42d31f494e8040d3e32e283dc
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_skull.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3eeca90c1ad2c46499941d0901eef4c6
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-error-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5b60c4c9c31a48de997f40e86fce8dd
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node0@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1a4f52b613391cd449af3ad2e44affeb
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/added-file-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a40dc0d6372a9084fb45976308087290
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquare_fadeOut_bt.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1d45eadab0e41c4a82cdffb6396b1d7
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_alignVC.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 849b7119dad13a24397add67a7f78510
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 73f5ebb64da7b2a40ab6bffac80f1a61
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineSelector.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 32eaa0efb2b38774ea9705b40fdcc00a
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeVAlignL.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 595b166389c8db546a199430284ebc9b
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha80.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb8c96287a087455ab5f02f76f764c10
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node8@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 81ed8c76d2bc4a4c95d092c98af4e58f
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 44a054df1702e39458b7072b08d0f212
+    m_importFrom: Assets/Plugins/Demigiant/DOTweenPro Examples/Examples Assets/dotweenpro_logo.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fc3b86627d5fe1c4d865b80627e2e37c
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmptyThick.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 6952cd3b0f88917449a8fa4d19fc5009
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineEndPlayback.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 21820ec6fc9dd0b4fbf42a3b93fdad4e
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_star.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27df4ca974a8eaf40803907859421506
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_darkBorder.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c5c1f094d9a9b3f4c9cc6c3a87af871c
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d563d6ce25cd2ca48b185ec47a74a3fb
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_skull.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ae3ba93a359be43028ab177bfbf6af50
+    m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a248c8288afb9184f953d9aa07a696b0
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_end.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 67a774c4384aa6c488128e2851b18ced
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeRippleON.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f252c69cd0163714eba038403f61b09e
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_shaders.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 53d696c01f6ca524383f11fcc34dd13c
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha15.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 78f56e873f56d7943aef2a039430732e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 37f3d28cae6b9174d8332ca2a20d7141
+    m_importFrom: Assets/DemoRes/Textures and Sprites/UI.spriteatlasv2
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4b51c3dc205df425bb581cfc489b2380
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node1@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e676ab7aa99535447a763c9f88bf9260
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 39d9575ed0465354cb02b69ea18526de
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeMixOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fa2529bf9209243c48e658c607b0c8f2
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node5@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4d614e4edbf542c418d50ec49eed858d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/loading-light@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fb5730e24283d0c489e5c7d0bee023d9
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/SectionHeader_Dark.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4616bb1fdd540b8418c6840020e72248
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8034c807692d4dc8975b8b0df202123
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 594fa102c56c0274db9edabc563d7dcb
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-offline-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 68d404d4616084f449a3bc644c023f2c
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e05ace3bd15740cda0bad60d89092a5b
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignRight_Light.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 77d926c9a4ddcc940b8c000b45cbfb35
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackMarkerButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8fca5ed160cdc5440a4c7561db4082b2
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeMixOFF.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 935962ddb1e44499dad00e5ca6b38823
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Rounded UI/UIPanel.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5ce43a8ae9d640f4cb77136d601fc0d8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/search-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 432426364f0e2474b9817a7e5b9dd1c2
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/clear-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: db15c78579dee4a4db85f392634c8ecc
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f8d98ef7dbbe3d469e14c04722cbeed
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineHeaderMarkerIcon.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 24b97c67b63a23b48bea4036d28a5818
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineMarkerItem.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e3ae01f12865ad54ba365963bda55759
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurved02_darkBorders.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e17ee60887efdd04389991a15ee0c578
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineAutokey_active.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bb678af880b2dd74cbd76186590c66da
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 18223d49715730347b997e6682fe49e5
+    m_importFrom: Packages/com.unity.assetbundlebrowser/Documentation/images/browser_header.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cb46e1d925af22d43a6f8bf0e1d459e6
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_ui.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a7d900a247e707e45a257328c3ee381e
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/deleted-file-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 359cf58d5969d1a4aad29b095c7fc338
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineActivation.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 03ae22b9de3989144a9bebf8972b4fad
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineDisplay.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3cf437657a48d3f4790401155e66704c
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/more-vert-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c0a56b88a1b449045b3fe5f561aa12fa
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty03.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 69ff79f863a32ad44a9497d4896d9d1c
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineInfiniteTrackNoShadow.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d267bc78a0864eb48358689b29ed20a
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/IsometricDiamond.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 9c6313a5316f8a34b852bf94ff96e3ab
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/back-dark@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f1f02bee0a5ae24aac00a40a212299a
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-incoming-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d1eccbb425fdacc4ba53ce4223f4ea30
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackMarkerButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 91207f32a007d429180caa8fce010afd
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Lit UI/UISpriteNormal.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fbcdeb07ee516a64daa01ce462874280
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackCurvesButtonEnabled.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1182605a67e89c34996a4dff4126aa0c
+    m_importFrom: Assets/DemoRes/Textures and Sprites/Decoration/Unity Logo Unlit.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 48a8d899ebcc4e84db1a2ffd2bb4e9e8
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/undo-light.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 829511f8e35bf3a40be037a1050f801c
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineOutline.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1f1d5baae1d26404a8a639a07e5c7766
+    m_importFrom: Assets/DemoRes/Textures and Sprites/SF UI/SF Generic.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 41b96614b2e6494ba995ddcd252d11ae
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle.psd
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ebfabba73d319b499aea05940290570
+    m_importFrom: Assets/StreamingAssets/Android
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cb4ec6b1018d6b41988caf5cf667737
+    m_importFrom: Assets/StreamingAssets/Android/ui
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d9a7f14be9570c4da0c4e096ccb30e4
+    m_importFrom: Assets/StreamingAssets/Android/ui/views
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e9dca739e3681c440bca33debed7285a
+    m_importFrom: Assets/StreamingAssets/Android/Android
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5d12ec9771064d34498c9eec7ac4cd3b
+    m_importFrom: Assets/StreamingAssets/Android/Android.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: f5c20db0aa183d74299950cc449752e6
+    m_importFrom: Assets/StreamingAssets/Android/ui/views/testview
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 4f05d41cd24f74344a2f3ea0b7acb08e
+    m_importFrom: Assets/StreamingAssets/Android/ui/views/homeview
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 097e510a33f9c5145ab3a3285b8ef3da
+    m_importFrom: Assets/StreamingAssets/Android/ui/views/homeview.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a5546539da1be3146ae7aecd83b76f92
+    m_importFrom: Assets/StreamingAssets/Android/ui/views/testview.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cc0063123f5cfb4d8b667e7256e7cfd
+    m_importFrom: Assets/StreamingAssets/Windows
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 212da30c78af27e4ea4d0a94462895fd
+    m_importFrom: Assets/StreamingAssets/Windows/ui
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d9a3d7daa2537304cb6d75786b78b060
+    m_importFrom: Assets/StreamingAssets/Windows/ui/views
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 3919f5405f718c943b3b2fd94d601c43
+    m_importFrom: Assets/StreamingAssets/Windows/ui/views/homeview.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d25b1552ed657224f8ab21584369165a
+    m_importFrom: Assets/StreamingAssets/Windows/ui/views/testview.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e96ace464f2078c43995a43dcf5c1cd3
+    m_importFrom: Assets/StreamingAssets/Windows/ui/views/homeview
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: bca2418a2f9542f4796137a88b1ba2b1
+    m_importFrom: Assets/StreamingAssets/Windows/ui/views/testview
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 020c0a037dcc413469b4edb8d9b08145
+    m_importFrom: Assets/StreamingAssets/Windows/Windows
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: ccf3ace91ef46e34393c5a77ec3825e8
+    m_importFrom: Assets/StreamingAssets/Windows/Windows.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5978f8f3dd274e848fbb7a123bde1fb9
+    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 5651992cdad94894a3af7dc3f1da9170
+    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d2a8f0021d6b47c5923d8972dfb81ef1
+    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 1e0a9643dc0d4b46bf2321f72c4e503e
+    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 00000000000000004000000000000000
+    m_importFrom: ProjectSettings/ProjectSettings.asset
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: af39a793b26859e4ab11505b8a3f5b28
+    m_importFrom: Assets/Scripts/DebugManager.cs
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: a83701400211a864bb6e0d602db7618d
+    m_importFrom: Assets/J/AssetLoader/Manifest.cs
+    m_exportTo: 
+    m_variantName: 
   m_version: 2

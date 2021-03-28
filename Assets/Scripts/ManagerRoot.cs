@@ -12,10 +12,9 @@ namespace DemoProj
         public async UniTask Init()
         {
             UIManager.Instance.Init();
-#if UNITY_EDITOR
-            manifestURL = "file://" + Application.dataPath + "AssetBundles/Android/Android";
+#if !UNITY_EDITOR
+            await AssetLoader.LoadManifest(manifestURL).ToUniTask();
 #endif
-            AssetLoader.LoadManifest(manifestURL);
             await UniTask.DelayFrame(1);
         }
 

@@ -65,12 +65,12 @@ MonoBehaviour:
         height: 23
   - m_name: Build Asset Bundles
     m_id: 4ab35e73-fe55-45bc-b58a-011e81171af8
-    m_x: 900
+    m_x: 864
     m_y: 180
     m_nodeInstance:
       m_className: UnityEngine.AssetGraph.BundleBuilder, Unity.AssetGraph.Editor,
         Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
-      m_instanceData: B64|eyJtX2VuYWJsZWRCdW5kbGVPcHRpb25zIjp7Im1fdmFsdWVzIjpbeyJ0YXJnZXRHcm91cCI6MCwidmFsdWUiOjM4NH1dfSwibV9vdXRwdXREaXIiOnsibV92YWx1ZXMiOlt7InRhcmdldEdyb3VwIjowLCJ2YWx1ZSI6IkFzc2V0QnVuZGxlcy97UGxhdGZvcm19LyJ9XX0sIm1fb3V0cHV0T3B0aW9uIjp7Im1fdmFsdWVzIjpbeyJ0YXJnZXRHcm91cCI6MCwidmFsdWUiOjJ9XX0sIm1fbWFuaWZlc3ROYW1lIjp7Im1fdmFsdWVzIjpbeyJ0YXJnZXRHcm91cCI6MCwidmFsdWUiOiJtYW5pZmVzdCJ9XX0sIm1fb3ZlcndyaXRlSW1wb3J0ZXJTZXR0aW5nIjpmYWxzZX0=
+      m_instanceData: B64|eyJtX2VuYWJsZWRCdW5kbGVPcHRpb25zIjp7Im1fdmFsdWVzIjpbeyJ0YXJnZXRHcm91cCI6MCwidmFsdWUiOjI1Nn1dfSwibV9vdXRwdXREaXIiOnsibV92YWx1ZXMiOlt7InRhcmdldEdyb3VwIjowLCJ2YWx1ZSI6IkFzc2V0cy9TdHJlYW1pbmdBc3NldHMve1BsYXRmb3JtfS8ifV19LCJtX291dHB1dE9wdGlvbiI6eyJtX3ZhbHVlcyI6W3sidGFyZ2V0R3JvdXAiOjAsInZhbHVlIjoyfV19LCJtX21hbmlmZXN0TmFtZSI6eyJtX3ZhbHVlcyI6W3sidGFyZ2V0R3JvdXAiOjAsInZhbHVlIjoiTWFuaWZlc3Rfe1BsYXRmb3JtfSJ9XX0sIm1fb3ZlcndyaXRlSW1wb3J0ZXJTZXR0aW5nIjpmYWxzZX0=
     m_inputPoints:
     - id: a9e4d446-e873-4311-ae08-2276858ba4d7
       label: '-'

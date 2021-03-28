@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 4136376684
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/views/homeview
+      Dependencies: {}
+    Info_1:
+      Name: ui/views/testview
+      Dependencies: {}
