@@ -19,5 +19,5 @@ MonoBehaviour:
     m_assets:
     - original: Assets/DemoRes/_Resources/UI/Views/HomeView.prefab
       lower: assets/demores/_resources/ui/views/homeview.prefab
-    m_registererId: b0c983bb-c6c0-4f08-b1b6-a0ab6dd14052
+    m_registererId: ded8767f-5c03-4c29-955b-6cbadbcfa3d9
   m_version: 1

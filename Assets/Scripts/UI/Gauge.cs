@@ -1,14 +1,12 @@
 ﻿using J;
-using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UniRx;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 namespace DemoProj
 {
-    public class Gauge : Component
+    public class Gauge : UIBehaviour
     {
         [SerializeField]
         private Image bar;
@@ -20,6 +18,7 @@ namespace DemoProj
 
         public void SetDividableProgress(DividableProgress progress)
         {
+            bar.fillAmount = 0;
             progress.Subscribe(percentage =>
             {
                 bar.fillAmount = percentage;

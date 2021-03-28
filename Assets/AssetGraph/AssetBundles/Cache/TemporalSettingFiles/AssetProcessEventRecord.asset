@@ -13,27 +13,306 @@ MonoBehaviour:
   m_Name: AssetProcessEventRecord
   m_EditorClassIdentifier: 
   m_events:
+  - m_kind: 0
+    m_timestampUtc: 132614236509020503
+    m_assetName: DottedRoundedRect.psd
+    m_assetGuid: 2b4a1682166e4434e8ee7c6f47115b43
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236513508227
+    m_assetName: Icon1.png
+    m_assetGuid: be0d6a45537a1a64e9e6c4ce47a2d58a
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236517826945
+    m_assetName: Icon2.png
+    m_assetGuid: fccea209f9ea7b1488225287813f4e38
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236522237506
+    m_assetName: Icon3.png
+    m_assetGuid: e484876f0cfbe8d46981ae0062b5e77f
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236526493228
+    m_assetName: Unity Logo Unlit.psd
+    m_assetGuid: 1182605a67e89c34996a4dff4126aa0c
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236530737941
+    m_assetName: BackgroundNormal.psd
+    m_assetGuid: 50ab5eea3a58b4ddeb99f0388a1d77c5
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236535058773
+    m_assetName: DiagonalSpritesNormal.psd
+    m_assetGuid: 022a5dbc82be311428eec45125477996
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236539217388
+    m_assetName: DiagonalStripes.psd
+    m_assetGuid: 30db500b226a8014e82f9e1e39a78e15
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236543537527
+    m_assetName: KnobNormal.psd
+    m_assetGuid: 38a596ccbd20144369ac06fcbc2ce118
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236547786046
+    m_assetName: White.psd
+    m_assetGuid: 5d5b9ba23399f4d4f8de62cb70b9440f
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236552174463
+    m_assetName: SF Background.jpg
+    m_assetGuid: 20230a1dc8b2b4837bde0fe4b5ab254c
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236553921473
+    m_assetName: SF Button.psd
+    m_assetGuid: 9a32a6cc2cb803443983d45d4a513506
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236557870885
+    m_assetName: SF Generic.psd
+    m_assetGuid: 1f1d5baae1d26404a8a639a07e5c7766
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236561745821
+    m_assetName: SF Title.psd
+    m_assetGuid: 966be606197166640a108ef53355eddf
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614236565658260
+    m_assetName: SF Window.psd
+    m_assetGuid: 6858abb4516aae344881bf286b3aac33
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: f5814699-4a32-47e2-8f73-da2ff01be249
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241215963856
+    m_assetName: DottedRoundedRect.psd
+    m_assetGuid: 2b4a1682166e4434e8ee7c6f47115b43
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241220491735
+    m_assetName: Icon1.png
+    m_assetGuid: be0d6a45537a1a64e9e6c4ce47a2d58a
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241224772288
+    m_assetName: Icon2.png
+    m_assetGuid: fccea209f9ea7b1488225287813f4e38
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241229199660
+    m_assetName: Icon3.png
+    m_assetGuid: e484876f0cfbe8d46981ae0062b5e77f
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241233414272
+    m_assetName: Unity Logo Unlit.psd
+    m_assetGuid: 1182605a67e89c34996a4dff4126aa0c
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241237919377
+    m_assetName: BackgroundNormal.psd
+    m_assetGuid: 50ab5eea3a58b4ddeb99f0388a1d77c5
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241242162326
+    m_assetName: DiagonalSpritesNormal.psd
+    m_assetGuid: 022a5dbc82be311428eec45125477996
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241246371965
+    m_assetName: DiagonalStripes.psd
+    m_assetGuid: 30db500b226a8014e82f9e1e39a78e15
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241250624970
+    m_assetName: KnobNormal.psd
+    m_assetGuid: 38a596ccbd20144369ac06fcbc2ce118
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241254833722
+    m_assetName: White.psd
+    m_assetGuid: 5d5b9ba23399f4d4f8de62cb70b9440f
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241258998994
+    m_assetName: SF Background.jpg
+    m_assetGuid: 20230a1dc8b2b4837bde0fe4b5ab254c
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241260704708
+    m_assetName: SF Button.psd
+    m_assetGuid: 9a32a6cc2cb803443983d45d4a513506
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241264646712
+    m_assetName: SF Generic.psd
+    m_assetGuid: 1f1d5baae1d26404a8a639a07e5c7766
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241268487401
+    m_assetName: SF Title.psd
+    m_assetGuid: 966be606197166640a108ef53355eddf
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241272667579
+    m_assetName: SF Window.psd
+    m_assetGuid: 6858abb4516aae344881bf286b3aac33
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614241469647283
+    m_assetName: bg2.png
+    m_assetGuid: 5e1f8c8e73039304e904497cec896bee
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
+  - m_kind: 0
+    m_timestampUtc: 132614243038276744
+    m_assetName: Hishoko_UI_Loading.png
+    m_assetGuid: 27cee126478f6fd4d93b1c36103fe249
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: 
+    m_howToFix: 
   - m_kind: 1
-    m_timestampUtc: 132614216410144868
+    m_timestampUtc: 132614266755893125
     m_assetName: 
     m_assetGuid: 
-    m_graphGuid: d58548e5d4de75d43801816bec69fd58
-    m_nodeId: 4ab35e73-fe55-45bc-b58a-011e81171af8
-    m_nodeName: Build Asset Bundles
-    m_description: System.IO.FileNotFoundException:D:\DemoProj/Assets/StreamingAssets/Android/Android
-      does not exist
-    m_howToFix: See Console for detail.
-  - m_kind: 1
-    m_timestampUtc: 132614216647214524
-    m_assetName: 
-    m_assetGuid: 
-    m_graphGuid: d58548e5d4de75d43801816bec69fd58
-    m_nodeId: 4ab35e73-fe55-45bc-b58a-011e81171af8
-    m_nodeName: Build Asset Bundles
-    m_description: System.IO.FileNotFoundException:D:\DemoProj/Assets/StreamingAssets/Android/Android
-      does not exist
-    m_howToFix: See Console for detail.
-  m_errorEventCount: 17
-  m_infoEventCount: 0
+    m_graphGuid: 73652e5cc77e98f44b869fe15e73eb01
+    m_nodeId: 6be3df19-acdd-4017-9235-a3741b4c26d2
+    m_nodeName: Overwrite Import Settings
+    m_description: Incoming asset 'homeview' does not have importer. (type=UnityEditor.DefaultAsset)
+      Perhaps you want to use Modifier instead?
+    m_howToFix: Add ScriptedImporter for this type of asset or replace this node
+      to use Modifier.
+  m_errorEventCount: 25
+  m_infoEventCount: 33
   m_version: 1
   m_processStartIndex: 0

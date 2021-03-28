@@ -15,7 +15,7 @@ namespace DemoProj
 
         public Transform viewRoot;
         public Transform popupRoot;
-        public UITweenSequence fadeInOutAnimation;
+        public LoadingPlate loadingPlate;
 
         public static Dictionary<ViewDefine.View, ViewBase> loadedView;
         private static Stack<ViewDefine.View> viewStack;
@@ -69,6 +69,8 @@ namespace DemoProj
                 await Resources.UnloadUnusedAssets();
 
             }
+            DividableProgress progress = new DividableProgress();
+            Instance.loadingPlate.SetProgress(progress);
             // view not loaded
             if (!loadedView.ContainsKey(nextView))
             {
@@ -81,21 +83,22 @@ namespace DemoProj
                         await loadedView[prevView].Hide();
                         loadedView[prevView].OnEndView();
                     }
-                    await Instance.fadeInOutAnimation.PlayAsync();
+                    
+                    await Instance.loadingPlate.uiAnimation.PlayAsync();
                     ClearLoadedView();
                     //PopupManager.OnEndScene();
                     nextSceneName = viewData.scene.ToString();
                     SceneManager.LoadScene("EmptyScene");
                     await UniTask.WaitUntil(() => Instance.isSceneLoaded);
                     currentScene = viewData.scene;
-                    await LoadViewTask(nextView);
-                    await Instance.fadeInOutAnimation.PlayReverseAsync();
+                    await LoadViewTask(nextView, progress);
+                    await Instance.loadingPlate.uiAnimation.PlayReverseAsync();
                     await loadedView[currentView].Show();
                     isLoading = false;
                 }
                 else //no need to load scene, but view is not loaded
                 {
-                    await LoadViewTask(nextView);
+                    await LoadViewTask(nextView, progress);
                     await loadedView[prevView].Hide();
                     loadedView[prevView].OnEndView();
                     await loadedView[currentView].Show();
@@ -124,7 +127,7 @@ namespace DemoProj
         /// </summary>
         /// <param name="view"></param>
         /// <returns></returns>
-        private static async UniTask LoadViewTask(ViewDefine.View view)
+        private static async UniTask LoadViewTask(ViewDefine.View view, DividableProgress progress)
         {
             string viewName = $"{view}View";
             string viewPath = $"UI/Views/{viewName}";
@@ -135,7 +138,9 @@ namespace DemoProj
             var viewScript = panelGO.GetComponent<UIPanelView>();
             logicScript.Init(viewScript);
             loadedView[currentView] = logicScript;
-            await loadedView[currentView].LoadTask();
+            await loadedView[currentView].LoadTask(progress);
+            progress.Report(1);
+            progress.Dispose();
             loadedView[currentView].OnFinishLoad();
         }
 
