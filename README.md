@@ -1,6 +1,6 @@
 # DemoProj
 
- ・UI
+## ・UI
   1画面は１Viewと定義されます。1つのシーンは複数のViewを格納できます。
   Viewはテンプレートがあります。新規製作の際に自動化ツールを使用してください。
   Menu-> Tools-> CreateViewをクリックするエディターウインドウが表示されます。
@@ -16,7 +16,7 @@
    prefabを編集した後、コントローラーで設定したいUIにUIComponentをアタッチして、prefabのルートにアタッチされているUIPanelViewでFetch Componentをクリックして。各UIのリファレンスがリストに格納されていることを確認。Generate Binding CodeをクリックしてxxxView_Binding.csにバインディングコードが生成されます。
       ![image](https://github.com/niu-shuang/DemoProj/blob/main/ScreenShots/CreateView2.png)
       
- ・通信
+## ・通信
   HTTP通信が実装されてます。
   Scripts/APIs/にapiの定義のサンプルがあります。
        ![image](https://github.com/niu-shuang/DemoProj/blob/main/ScreenShots/ApiDemo.png)
