@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 632666868
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: ui/views/homeview
+      Dependencies: {}

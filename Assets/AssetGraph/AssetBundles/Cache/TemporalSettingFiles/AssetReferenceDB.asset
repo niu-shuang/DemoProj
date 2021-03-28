@@ -13,24 +13,12 @@ MonoBehaviour:
   m_Name: AssetReferenceDB
   m_EditorClassIdentifier: 
   m_assets:
-  - m_assetDatabaseId: b709bd62b9e0979418edfa253fb999de
+  - m_assetDatabaseId: 9001bfe201dc61c4d906e732ea859a7b
     m_importFrom: Assets/DemoRes/_Resources/UI/Views/HomeView.prefab
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 0f618321b4fe4f54fb16fb32ee9eff42
-    m_importFrom: Assets/DemoRes/_Resources/UI/Views/TestView.prefab
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 798761c344bad304ba3fbc8b6c07a0bb
-    m_importFrom: Assets/Scripts/UIManager.cs
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d61fb9d4ec6046440b13af2f77dc62df
-    m_importFrom: Assets/Scripts/ManagerRoot.cs
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0000000000000000b000000000000000
-    m_importFrom: ProjectSettings/EditorBuildSettings.asset
+  - m_assetDatabaseId: 63edb8c83f9a3ec42992c38238ffafbb
+    m_importFrom: Assets/Scripts/Networking/API/APIBase.Core.cs
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 63ccad73f53601048ab7acf90132343e
@@ -45,20 +33,16 @@ MonoBehaviour:
     m_importFrom: Assets/AssetGraph.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8476fa3cd660445448f7a7c077156f62
-    m_importFrom: Assets/Scenes/Title.unity
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0e787a85b1a4c004688af8bf8c9551f6
-    m_importFrom: Assets/Scripts/Title.cs
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 66f95989724541645aedfacb6dc4f044
     m_importFrom: Assets/AssetGraph/AssetBundles/Cache/TemporalSettingFiles/AssetProcessEventRecord.asset
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 3d814d37ef3f05f4d894c27a363ffa77
-    m_importFrom: Assets/StreamingAssets
+  - m_assetDatabaseId: 8cc0063123f5cfb4d8b667e7256e7cfd
+    m_importFrom: Assets/StreamingAssets/Windows
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8ebfabba73d319b499aea05940290570
+    m_importFrom: Assets/StreamingAssets/Android
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: ed7cb8f9a27664e48896c904189f0e2c
@@ -169,16 +153,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey@2x.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: e50018fd67fc156459e4014bdad3f5f6
-    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSwatch.png
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: fef7487d8b06bba408f70354e2463ce4
-    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonDisabled.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 252f207d01ecc87419cdba1d1c0ab1ea
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_light_border.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: e50018fd67fc156459e4014bdad3f5f6
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Shared/TimelineSwatch.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 98d032c68be4a784ab77b461c5341fc8
@@ -235,6 +215,10 @@ MonoBehaviour:
     m_variantName: 
   - m_assetDatabaseId: 87aaca0a643d54397ba969dab4fc8875
     m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/CircleMask.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: fef7487d8b06bba408f70354e2463ce4
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackLockButtonDisabled.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 4896b5aa9d63dec498136c21ffce735b
@@ -570,12 +554,12 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/yellowSquare.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 907baae0102874dd49e7f5b2c9dbd168
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 05cfe010378336646ad6c721f66543d1
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blueSquare.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 907baae0102874dd49e7f5b2c9dbd168
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node0.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: c456d5ac01d2aa843a63985497b04931
@@ -654,6 +638,10 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_lock_open.png
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: d099d3ad89cc7c243966b25f833cdd58
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/EditorOnly/gradient.png
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: 3ee40aa79cd242a5b53b0b0ca4f13f0f
     m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Gizmos/TMP - Input
       Field Icon.psd
@@ -711,8 +699,8 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha50.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: afc3569f912a446bc839b0acf18ac47c
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7@2x.png
+  - m_assetDatabaseId: c133595e3c100774496e03e66fa69259
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: c207dcd389fb689489f5266468cd4609
@@ -723,12 +711,12 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_cog.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: c133595e3c100774496e03e66fa69259
-    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineMarkerItem.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 7c05578092876a0458b8b480269aef86
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TrackAvatarButtonDisabled@2x.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: afc3569f912a446bc839b0acf18ac47c
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node7@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 6dfd924c0ba23844fb5d04ad1560de22
@@ -741,6 +729,10 @@ MonoBehaviour:
     m_variantName: 
   - m_assetDatabaseId: f747f9cdf03f2ff418fe728a77e8cbef
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/DarkSkin/TimelineContinue.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 27193086681062a4b8cd1eb34c6c1881
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/top-to-bottom-gradient.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 60706f973daf4764e81c846ce1a8e183
@@ -800,16 +792,16 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_cog_border.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 4adeaf2d2b1c7417e89f026626d8264f
-    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
+  - m_assetDatabaseId: f36ab42cc6fcdfd4187033279d3d14a9
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 2446ee609b613cd4e9142ccc55cb7c43
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineCollapseMarkerButtonEnabled.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: f36ab42cc6fcdfd4187033279d3d14a9
-    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_demigiant.png
+  - m_assetDatabaseId: 4adeaf2d2b1c7417e89f026626d8264f
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/Circle.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: f15453c5e25703942b480f17a40794f5
@@ -854,6 +846,10 @@ MonoBehaviour:
     m_variantName: 
   - m_assetDatabaseId: b1d064d6d80829f4eb370f679384ea1f
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineDigIn.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: c5f92795d49795a4bbdb0c5d11adb181
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/ellipsis.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 68295f1d2b4db9040ac84ac00d5554a6
@@ -1048,16 +1044,16 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_camera_border.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: a1db7ee549d5147d4b42adf1b7396354
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/InputBG.png
+  - m_assetDatabaseId: 56f45ee382e8dc847bd536ba8de7300b
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-light@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 4d338c631fa36f345b72a36f1c91ff9a
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/transparentSquare.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 56f45ee382e8dc847bd536ba8de7300b
-    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/diff-light@2x.png
+  - m_assetDatabaseId: a1db7ee549d5147d4b42adf1b7396354
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/InputBG.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: e85ee2947fe44422d90dab56e1efdd91
@@ -1177,12 +1173,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-available-changes-dark@2x.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: cc35afd292fc349128b36a291fb3a165
-    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 4578222ee7a511446b0c340551bf8740
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderCurvedEmpty.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: cc35afd292fc349128b36a291fb3a165
+    m_importFrom: Packages/com.unity.2d.sprite/Editor/ObjectMenuCreation/DefaultAssets/Textures/9-Sliced.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 20230a1dc8b2b4837bde0fe4b5ab254c
@@ -1281,6 +1277,10 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineEditModeReplaceON.png
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: fd58d1cd1a7c2af4b853218513fc44a5
+    m_importFrom: Assets/Plugins/LitJson/litjson.png
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: 52c8930beb5f2774ebec26a86c7e9713
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/merge-light@2x.png
     m_exportTo: 
@@ -1326,12 +1326,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/edited-file-light@2x.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 4edd7b9c0708c41c394a7eccef5710f3
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1@2x.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 039dc89c76661c344b7776f8a47cc5a4
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteDot_whiteBorderAlpha.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 80c31f397a3ab184bae2f0d4b3dc5c1d
+    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-dark.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: e1af8927fb6f5634896d59aed409a589
@@ -1342,8 +1342,8 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-error-light@2x.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 80c31f397a3ab184bae2f0d4b3dc5c1d
-    m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-done-dark.png
+  - m_assetDatabaseId: 0f1c9a12872a30f45bab34f536332bb3
+    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 1a7852b1b33b816498b6af1e739f5995
@@ -1354,8 +1354,8 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_play_border.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 0f1c9a12872a30f45bab34f536332bb3
-    m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TrackRecordButtonEnabled@2x.png
+  - m_assetDatabaseId: 8bc445bb79654bf496c92d0407840a92
+    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: a383d8b1327c9254896ad76d6efaf357
@@ -1370,8 +1370,8 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-dark.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8bc445bb79654bf496c92d0407840a92
-    m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+  - m_assetDatabaseId: 4edd7b9c0708c41c394a7eccef5710f3
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: d0c9bfe4ae0d68a4f945b3a8d983af01
@@ -1507,8 +1507,8 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/whiteSquareAlpha15.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: f8dd2517b608b4a7ea9098574b4e6969
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1.png
+  - m_assetDatabaseId: 301c130dbb4bbba4e87072804939c861
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 63255dcf53aebf34a8b1162ee502ebe1
@@ -1519,8 +1519,8 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/show-light.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 301c130dbb4bbba4e87072804939c861
-    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_foldout_closed.png
+  - m_assetDatabaseId: f8dd2517b608b4a7ea9098574b4e6969
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node1.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 158d9c687149a0e499002e08c9420c70
@@ -1591,12 +1591,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node2.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 0bf674c3f0a4e42228c87053bedac19e
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConnectionPoint.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: ad2e3e92b00839c4e991ca602ef19822
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/d_TimelineSignal.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0bf674c3f0a4e42228c87053bedac19e
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/ConnectionPoint.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 5fa5a4d85cee44cc3a050e131b9b6098
@@ -1663,6 +1663,10 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.assetbundlebrowser/Documentation/images/ABundleBrowserIconY1756Basic.png
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: e3791f06fd42a8345a2b157e3f44c5e4
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/left-to-right-gradient.png
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: ed27888e1684140fe8f6cb05957e5b6b
     m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node3.png
     m_exportTo: 
@@ -1671,8 +1675,16 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/squareBorderEmpty.png
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 530a50bdccc352b448e5e05c1a8a8759
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/plus.png
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: af3aec622aef40c45813b39e405966a3
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/LightSkin/TimelineAutokey.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 787578eb3a0ae5446999ae02ec0a4f19
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/filled_circle_with_arrow.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 8478a99d8fb61c94ba938c3034d449c6
@@ -1711,12 +1723,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/choose-remote-dark.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8f7ecdf2556ad4d3a820aba90522fab4
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7@2x.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: f4c899d39b015484a9b4e5464802e401
     m_importFrom: Assets/DemoRes/Textures and Sprites/Rounded UI/UIButtonCorner.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8f7ecdf2556ad4d3a820aba90522fab4
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/on_node7@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: b48a2f13c40b045f9b2205828dbd7fc4
@@ -1791,6 +1803,10 @@ MonoBehaviour:
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/ico_distributeVAlignL.png
     m_exportTo: 
     m_variantName: 
+  - m_assetDatabaseId: 2c20e8d8854da4b4ebd2784b670ebbb2
+    m_importFrom: Assets/Plugins/Com.TheFallenGames/OSA/Textures/EditorOnly/osa-icon.png
+    m_exportTo: 
+    m_variantName: 
   - m_assetDatabaseId: 595b166389c8db546a199430284ebc9b
     m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/blackSquareAlpha80.png
     m_exportTo: 
@@ -1827,12 +1843,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.timeline/Editor/StyleSheets/Images/Icons/TimelineEditModeRippleON.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: d563d6ce25cd2ca48b185ec47a74a3fb
-    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_skull.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: ae3ba93a359be43028ab177bfbf6af50
     m_importFrom: Packages/com.unity.assetgraph/Editor/SettingTemplate/setting.wav
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: d563d6ce25cd2ca48b185ec47a74a3fb
+    m_importFrom: Assets/Plugins/Demigiant/DemiLib/Core/Editor/Imgs/project/ico_skull.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: a248c8288afb9184f953d9aa07a696b0
@@ -1887,12 +1903,12 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/moved-file-light.png
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: b8034c807692d4dc8975b8b0df202123
-    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5@2x.png
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: 594fa102c56c0274db9edabc563d7dcb
     m_importFrom: Packages/com.unity.collab-proxy/Editor/Assets/Icons/collaborate-offline-dark.png
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: b8034c807692d4dc8975b8b0df202123
+    m_importFrom: Packages/com.unity.assetgraph/Editor/GUI/GraphicResources/NodeImage/node5@2x.png
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 68d404d4616084f449a3bc644c023f2c
@@ -2023,28 +2039,8 @@ MonoBehaviour:
     m_importFrom: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignMiddle.psd
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8ebfabba73d319b499aea05940290570
-    m_importFrom: Assets/StreamingAssets/Android
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 8cb4ec6b1018d6b41988caf5cf667737
-    m_importFrom: Assets/StreamingAssets/Android/ui
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 0d9a7f14be9570c4da0c4e096ccb30e4
-    m_importFrom: Assets/StreamingAssets/Android/ui/views
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: e9dca739e3681c440bca33debed7285a
-    m_importFrom: Assets/StreamingAssets/Android/Android
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 5d12ec9771064d34498c9eec7ac4cd3b
-    m_importFrom: Assets/StreamingAssets/Android/Android.manifest
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: f5c20db0aa183d74299950cc449752e6
-    m_importFrom: Assets/StreamingAssets/Android/ui/views/testview
+  - m_assetDatabaseId: f7c4570bec54b014ea965c9c7c302110
+    m_importFrom: Assets/Scripts/Utilities.cs
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 4f05d41cd24f74344a2f3ea0b7acb08e
@@ -2055,12 +2051,20 @@ MonoBehaviour:
     m_importFrom: Assets/StreamingAssets/Android/ui/views/homeview.manifest
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: a5546539da1be3146ae7aecd83b76f92
-    m_importFrom: Assets/StreamingAssets/Android/ui/views/testview.manifest
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/StreamingAssets/Android/AssetBundles
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 8cc0063123f5cfb4d8b667e7256e7cfd
-    m_importFrom: Assets/StreamingAssets/Windows
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/StreamingAssets/Android/AssetBundles.manifest
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 8cb4ec6b1018d6b41988caf5cf667737
+    m_importFrom: Assets/StreamingAssets/Android/ui
+    m_exportTo: 
+    m_variantName: 
+  - m_assetDatabaseId: 0d9a7f14be9570c4da0c4e096ccb30e4
+    m_importFrom: Assets/StreamingAssets/Android/ui/views
     m_exportTo: 
     m_variantName: 
   - m_assetDatabaseId: 212da30c78af27e4ea4d0a94462895fd
@@ -2075,52 +2079,28 @@ MonoBehaviour:
     m_importFrom: Assets/StreamingAssets/Windows/ui/views/homeview.manifest
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: d25b1552ed657224f8ab21584369165a
-    m_importFrom: Assets/StreamingAssets/Windows/ui/views/testview.manifest
-    m_exportTo: 
-    m_variantName: 
   - m_assetDatabaseId: e96ace464f2078c43995a43dcf5c1cd3
     m_importFrom: Assets/StreamingAssets/Windows/ui/views/homeview
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: bca2418a2f9542f4796137a88b1ba2b1
-    m_importFrom: Assets/StreamingAssets/Windows/ui/views/testview
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/StreamingAssets/Windows/AssetBundles
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 020c0a037dcc413469b4edb8d9b08145
-    m_importFrom: Assets/StreamingAssets/Windows/Windows
+  - m_assetDatabaseId: 
+    m_importFrom: Assets/StreamingAssets/Windows/AssetBundles.manifest
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: ccf3ace91ef46e34393c5a77ec3825e8
-    m_importFrom: Assets/StreamingAssets/Windows/Windows.manifest
+  - m_assetDatabaseId: f7e9417b5b2c2cf4dbe1a16788e8c662
+    m_importFrom: Assets/Scripts/Networking/API/CreatePlayerAPI.cs
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 5978f8f3dd274e848fbb7a123bde1fb9
-    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Utilities.dll
+  - m_assetDatabaseId: 0e787a85b1a4c004688af8bf8c9551f6
+    m_importFrom: Assets/Scripts/Title.cs
     m_exportTo: 
     m_variantName: 
-  - m_assetDatabaseId: 5651992cdad94894a3af7dc3f1da9170
-    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: d2a8f0021d6b47c5923d8972dfb81ef1
-    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 1e0a9643dc0d4b46bf2321f72c4e503e
-    m_importFrom: Assets/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: 00000000000000004000000000000000
-    m_importFrom: ProjectSettings/ProjectSettings.asset
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: af39a793b26859e4ab11505b8a3f5b28
-    m_importFrom: Assets/Scripts/DebugManager.cs
-    m_exportTo: 
-    m_variantName: 
-  - m_assetDatabaseId: a83701400211a864bb6e0d602db7618d
-    m_importFrom: Assets/J/AssetLoader/Manifest.cs
+  - m_assetDatabaseId: 8476fa3cd660445448f7a7c077156f62
+    m_importFrom: Assets/Scenes/Title.unity
     m_exportTo: 
     m_variantName: 
   m_version: 2

@@ -130,8 +130,11 @@ namespace DemoProj
             string viewPath = $"UI/Views/{viewName}";
             var panelAsset = await AssetLoader.Load<GameObject>(viewPath);
             var panelGO = Instantiate(panelAsset, Instance.viewRoot);
-            var viewScript = panelGO.GetComponent<ViewBase>();
-            loadedView[currentView] = viewScript;
+            
+            var logicScript = Activator.CreateInstance(Type.GetType("DemoProj." + viewName)) as ViewBase;
+            var viewScript = panelGO.GetComponent<UIPanelView>();
+            logicScript.Init(viewScript);
+            loadedView[currentView] = logicScript;
             await loadedView[currentView].LoadTask();
             loadedView[currentView].OnFinishLoad();
         }

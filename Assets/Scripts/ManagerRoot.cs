@@ -11,6 +11,7 @@ namespace DemoProj
         public string manifestURL;
         public async UniTask Init()
         {
+            DebugManager.Instance.Init();
             UIManager.Instance.Init();
 #if !UNITY_EDITOR
             await AssetLoader.LoadManifest(manifestURL).ToUniTask();

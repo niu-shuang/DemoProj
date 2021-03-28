@@ -12,25 +12,28 @@ namespace DemoProj
     {
         protected CompositeDisposable disposable;
         public UITweenSequence uiAnimation;
+        public UIPanelView view;
 
-        public virtual void Init()
+        public virtual void Init(UIPanelView view)
         {
+            this.view = view;
             disposable = new CompositeDisposable();
         }
 
         public virtual async UniTask Show()
         {
-            await uiAnimation.PlayAsync();
+            await view.uiTweenSequence.PlayAsync();
         }
 
         public virtual async UniTask Hide()
         {
-            await uiAnimation.PlayReverseAsync();
+            await view.uiTweenSequence.PlayReverseAsync();
         }
 
         public virtual void Dispose()
         {
             disposable?.Dispose();
         }
+
     }
 }

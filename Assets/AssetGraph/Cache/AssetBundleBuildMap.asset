@@ -20,11 +20,4 @@ MonoBehaviour:
     - original: Assets/DemoRes/_Resources/UI/Views/HomeView.prefab
       lower: assets/demores/_resources/ui/views/homeview.prefab
     m_registererId: b0c983bb-c6c0-4f08-b1b6-a0ab6dd14052
-  - m_assetBundleName: ui/views/testview
-    m_assetBundleVariantName: 
-    m_fullName: ui/views/testview
-    m_assets:
-    - original: Assets/DemoRes/_Resources/UI/Views/TestView.prefab
-      lower: assets/demores/_resources/ui/views/testview.prefab
-    m_registererId: b0c983bb-c6c0-4f08-b1b6-a0ab6dd14052
   m_version: 1
