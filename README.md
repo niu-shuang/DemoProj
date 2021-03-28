@@ -1,7 +1,7 @@
 # DemoProj
 
 ## ・UI
-  1画面は１Viewと定義されます。1つのシーンは複数のViewを格納できます。
+  1画面は１Viewと定義されます。1つのシーンは複数のViewを格納できます。<\br>
   Viewはテンプレートがあります。新規製作の際に自動化ツールを使用してください。
   Menu-> Tools-> CreateViewをクリックするエディターウインドウが表示されます。
   例えばHomeというシーンにTestViewを追加したい場合、Viewという項目にTest(Viewを入力する必要はありません)を入力し、Sceneという項目にHomeを入力してCreateViewをクリックしてください。
